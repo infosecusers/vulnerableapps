@@ -1,2 +1,2 @@
 # vulnerableapps
-only for demo use
+files collected from multiple vulnerable apps. to test a tool
